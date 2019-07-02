@@ -19,9 +19,9 @@ public class TrelloTest {
     String propFileName = "config.properties";
     String host = "";
 
-    private static String KEY = "b99c106d8546a2b3bb0574146d8ea1cb";
-    private static String OAUTHSECRET = "a54d99148e4b8babc3c148f16e5bd66e6fc75c3c0b98e491dfd8e12b9ee40f95";
-    private  static  String PERSONALTOKEN = "20eb5a9c05464df117c5b5b486ad79703d28c7f5685e1b4080d213322472cd32";
+    private static String KEY = "99999999999999999999999999";
+    private static String OAUTHSECRET = "99999999999999999999999999999999999999999999999999999999999999999";
+    private  static  String PERSONALTOKEN = "99999999999999999999999999999999999999999999999999999999999999999";
     private static String BoardId = "5d1ba8bf9a40bd0e942762d1";
     private static String ListID= "5d1ba8c00fdab220129a46ef";
 
